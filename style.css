@@ -1,10 +1,28 @@
 .card {
     margin-left: 300px;
-    margin-right: 500px;
+    margin-right: 350px;
     background-color: #f8f9fa;
 }
 
 .footer{
     background-color:  #333333;;
     color: white;
+}
+
+
+.linha {
+    background-color: #f8f9fa;
+    padding-top: 10px;
+}
+
+.coluna1 {
+    margin-left: 300px;
+}
+
+.container{
+    padding: 30px;
+}
+
+.container-card{
+    margin-bottom: 30px;
 }
